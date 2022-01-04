@@ -1,5 +1,5 @@
 # DS_111
-#Data Science & Analytics Profile
+# Data Science & Analytics Profile
 This repository contains projects and visualizations created from the data Science & Analytics Profile with CSULB
 
 ## SQL
