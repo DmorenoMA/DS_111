@@ -2,8 +2,8 @@
 #Data Science & Analytics Profile
 This repository contains projects and visualizations created from the data Science & Analytics Profile with CSULB
 
-##SQL
+## SQL
 
-##Statistics
+## Statistics
 
-##Visual Communcations
+## Visual Communcations
